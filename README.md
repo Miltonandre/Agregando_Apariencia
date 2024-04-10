@@ -1,5 +1,3 @@
-# Agregando_Apariencia
-Readme para visualización.
 <h1 align="left">Hola 👋 Bienvenidos al mundo de la nueva generación.</h1>
 
 ###
